@@ -142,5 +142,15 @@
   {
     "ModuleName": "Upload",
     "ModuleType": 26
+  },
+  {
+    "ModuleName": "Pages/文件夹1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T11:54:23.2264939+08:00",
+    "ModuleType": 6
   }
 ]
