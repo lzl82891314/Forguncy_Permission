@@ -182,5 +182,15 @@
     "LockDateTime": "2022-11-18T16:36:01.3344017+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "ServerCommand/服务端命令1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T16:59:59.8083964+08:00",
+    "ModuleType": 15
   }
 ]
