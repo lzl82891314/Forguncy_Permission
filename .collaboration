@@ -105,11 +105,34 @@
   },
   {
     "ModuleName": "ApplicationSetting",
-    "ModuleType": 8
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T17:00:57.5402681+08:00",
+    "ModuleType": 8,
+    "ToRemoveFiles": [
+      "ApplicationSettings.json",
+      "favicon.ico"
+    ]
   },
   {
     "ModuleName": "Theme",
-    "ModuleType": 9
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T17:00:57.5417093+08:00",
+    "ModuleType": 9,
+    "ToRemoveFiles": [
+      "Theme\\CellTypeStyles",
+      "Theme\\ListViewStyles",
+      "Theme\\StyleDefaultNames",
+      "Theme\\ThemeConfig",
+      "Reports\\DefaultTheme.rdlx-theme"
+    ]
   },
   {
     "ModuleName": "image/内置图片",
@@ -222,5 +245,206 @@
     },
     "LockDateTime": "2022-11-18T17:00:46.9411405+08:00",
     "ModuleType": 16
+  },
+  {
+    "ModuleName": "ProcessItem/流程1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T17:00:57.5402603+08:00",
+    "ModuleType": 28,
+    "ExclusiveType": 1
+  },
+  {
+    "ModuleName": "Tables/流程表文件夹",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T17:00:57.5407794+08:00",
+    "ModuleType": 22
+  },
+  {
+    "ModuleName": "TableProcessView/ACT_RE_PROCDEF_View",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T17:00:57.5407881+08:00",
+    "ModuleType": 30
+  },
+  {
+    "ModuleName": "TableProcessView/ACT_HI_PROCINST_View",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T17:00:57.5407907+08:00",
+    "ModuleType": 30
+  },
+  {
+    "ModuleName": "TableProcessView/ACT_HI_TASKINST_View",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T17:00:57.5407922+08:00",
+    "ModuleType": 30
+  },
+  {
+    "ModuleName": "TableProcessView/ACT_RU_TASK_View",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T17:00:57.5407936+08:00",
+    "ModuleType": 30
+  },
+  {
+    "ModuleName": "TableProcessView/ACT_HI_COMMENT_View",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T17:00:57.540795+08:00",
+    "ModuleType": 30
+  },
+  {
+    "ModuleName": "Pages/流程页面文件夹",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T17:00:57.5408831+08:00",
+    "ModuleType": 6
+  },
+  {
+    "ModuleName": "MasterPages/流程母版页面文件夹",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T17:00:57.5410229+08:00",
+    "ModuleType": 24
+  },
+  {
+    "ModuleName": "PCPage/FGC_流程列表",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T17:00:57.5411191+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_流程追踪",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T17:00:57.5411278+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_审批记录",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T17:00:57.5411724+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_任务详情",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T17:00:57.5411934+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_我发起的",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T17:00:57.5412029+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_我的待办",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T17:00:57.5412064+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_我的已办",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T17:00:57.5412093+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_我的待阅",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T17:00:57.5412121+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_我的已阅",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T17:00:57.5412156+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_我委托的",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T17:00:57.5412186+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "MasterPCPage/FGC_流程中心",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T17:00:57.5412219+08:00",
+    "ModuleType": 3
   }
 ]
