@@ -192,5 +192,15 @@
     },
     "LockDateTime": "2022-11-18T16:59:59.8083964+08:00",
     "ModuleType": 15
+  },
+  {
+    "ModuleName": "PageReport/报表1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T17:00:28.3673819+08:00",
+    "ModuleType": 17
   }
 ]
