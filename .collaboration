@@ -202,5 +202,15 @@
     },
     "LockDateTime": "2022-11-18T17:00:28.3673819+08:00",
     "ModuleType": 17
+  },
+  {
+    "ModuleName": "Notification/服务端通知1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T17:00:39.1363888+08:00",
+    "ModuleType": 34
   }
 ]
