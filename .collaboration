@@ -172,5 +172,15 @@
     "ToRemoveFiles": [
       "Pages\\文件夹1\\页面3.json"
     ]
+  },
+  {
+    "ModuleName": "PCPage/页面4",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T16:03:24.629893+08:00",
+    "ModuleType": 1
   }
 ]
