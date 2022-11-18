@@ -212,5 +212,15 @@
     },
     "LockDateTime": "2022-11-18T17:00:39.1363888+08:00",
     "ModuleType": 34
+  },
+  {
+    "ModuleName": "TaskScheduler/计划任务1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-11-18T17:00:46.9411405+08:00",
+    "ModuleType": 16
   }
 ]
