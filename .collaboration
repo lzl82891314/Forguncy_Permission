@@ -149,48 +149,18 @@
   },
   {
     "ModuleName": "PCPage/页面2",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\JefferyLi",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2022-11-18T12:17:38.789902+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\文件夹1\\页面2.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/页面3",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\JefferyLi",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2022-11-18T12:18:23.5499107+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\文件夹1\\页面3.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/页面4",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\JefferyLi",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2022-11-18T16:03:24.629893+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/页面5",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\JefferyLi",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2022-11-18T16:03:33.1057565+08:00",
     "ModuleType": 1
   }
 ]
